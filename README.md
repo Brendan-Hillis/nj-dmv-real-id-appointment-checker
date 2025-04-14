@@ -27,21 +27,13 @@ This Python script periodically checks the New Jersey Motor Vehicle Commission (
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/Brendan-Hillis/nj-dmv-real-id-appointment-checker
+    cd nj-dmv-real-id-appointment-checker
     ```
 
 2.  **Install Required Libraries:**
     ```bash
     pip install -r requirements.txt
-    ```
-    *(You will need to create a `requirements.txt` file containing the following lines):*
-    ```
-    requests
-    beautifulsoup4
-    google-api-python-client
-    google-auth-httplib2
-    google-auth-oauthlib
     ```
 
 ## Configuration
